@@ -1,7 +1,7 @@
 const axios = require("axios");
 
-// Goatbot / Dipto API Link
-const baseApiUrl = "https://noobs-api.top/dipto/baby";
+// Mirai / sahu API Link
+const baseApiUrl = "https://gitlab.com/shahadat-sahu/sahu-api/-/raw/main/API.json";
 
 module.exports.config = {
  name: "baby",
