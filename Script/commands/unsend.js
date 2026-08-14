@@ -4,7 +4,7 @@ const path = require("path");
 module.exports.config = {
   name: "unsend",
   version: "2.0.0",
-  hasPermssion: 0,
+  hasPermssion: 2,
   credits: "SA HU", //please don't change credit
   description: "Unsend bot's sent message",
   commandCategory: "system",
